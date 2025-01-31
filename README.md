@@ -1,4 +1,4 @@
-<img align = "right" width="400" height="400" alt="Screenshot 2025-01-31 at 6 20 54 PM" src="https://github.com/user-attachments/assets/58a6c870-1085-4730-a1b8-3af38a4b4b77" />
+<img align = "right" width="300" height="300" alt="Screenshot 2025-01-31 at 6 20 54 PM" src="https://github.com/user-attachments/assets/58a6c870-1085-4730-a1b8-3af38a4b4b77" />
 <br>
 #👋 Hello, I'm Swathisri !
 <ul>
