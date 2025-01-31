@@ -5,6 +5,7 @@
   <li>🌱 Learning and Progressing 📝</li>
   <li>💡 Currently working on OCR techniques 🧐</li>
 </ul>
+<br>
 
 ### 🎖️ Streaks
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Swathisri-02&theme=radical)
