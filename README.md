@@ -6,6 +6,7 @@
 ### 🎭 Random Dev Joke
 ![Jokes](https://readme-jokes.vercel.app/api)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
-
+### 🎖️ Streaks
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Swathisri-02&theme=radical)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Swathisri-02&color=blue)
