@@ -7,3 +7,5 @@
 ![Jokes](https://readme-jokes.vercel.app/api)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)
