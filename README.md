@@ -9,8 +9,6 @@
 ### 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swathisri-r-9909a720a/)
 
-<br>
-
 ### 🧑‍🧒‍🧒 Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swathisri-02&show_icons=true&theme=radical)
 
