@@ -7,6 +7,9 @@
 </ul>
 <br>
 
+### 🧑‍🧒‍🧒 Contributions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swathisri-02&show_icons=true&theme=radical)
+
 ### 🎖️ Streaks
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Swathisri-02&theme=radical)
 
