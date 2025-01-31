@@ -4,6 +4,8 @@
   <li>🚀 Passionate about AI and Web Development 👩🏻‍💻  </li>
   <li>🌱 Learning and Progressing 📝</li>
   <li>💡 Currently working on OCR techniques 🧐</li>
+  <li>###🌎 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swathisri-r-9909a720a/)
 </ul>
 <br>
 
@@ -15,6 +17,9 @@
 
 ### 👀 Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Swathisri-02&color=blue)
+
+### Random quote
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ### 🎭 Random Dev Joke
 ![Jokes](https://readme-jokes.vercel.app/api)
