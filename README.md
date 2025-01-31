@@ -8,8 +8,8 @@
 ### 🎖️ Streaks
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Swathisri-02&theme=radical)
 
-### 🎭 Random Dev Joke
-![Jokes](https://readme-jokes.vercel.app/api)
-
 ### 👀 Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Swathisri-02&color=blue)
+
+### 🎭 Random Dev Joke
+![Jokes](https://readme-jokes.vercel.app/api)
