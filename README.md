@@ -8,4 +8,4 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Swathisri-02&theme=radical)
