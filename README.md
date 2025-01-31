@@ -3,7 +3,7 @@
 <ul>
   <li>🚀 Passionate about AI and Web Development 👩🏻‍💻  </li>
   <li>🌱 Learning and Progressing 📝</li>
-  <li>💡 Currently working on OCR techniques 🧐</li>
+  <li>💡 Currently working on OCR techniques 📑🧐</li>
 </ul>
   
 ### 🌎 Connect with Me
@@ -17,9 +17,6 @@
 
 ### 👀 Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Swathisri-02&color=blue)
-
-### Random quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ### 🎭 Random Dev Joke
 ![Jokes](https://readme-jokes.vercel.app/api)
