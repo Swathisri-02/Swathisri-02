@@ -15,7 +15,7 @@
 ### 🎖️ Streaks
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Swathisri-02&theme=radical)
 
-### 👀 Count
+### 👀 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Swathisri-02&color=blue)
 
 ### 🎭 Random Dev Joke
