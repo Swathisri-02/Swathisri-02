@@ -19,4 +19,4 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Swathisri-02&color=blue)
 
 ### 🎭 Random Dev Joke
-![Jokes](https://readme-jokes.vercel.app/api&theme=radical)
+![Jokes](https://readme-jokes.vercel.app/api)
