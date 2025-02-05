@@ -13,7 +13,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swathisri-02&show_icons=true&theme=radical)
 
 ### 🎖️ Streaks
-![GitHub Streaks](https://streak-stats.demolab.com/?user=Swathisri-02&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Swathisri-02&theme=radical)
 
 ### 👀 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Swathisri-02&color=blue)
